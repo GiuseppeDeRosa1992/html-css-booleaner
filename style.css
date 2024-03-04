@@ -50,7 +50,7 @@ figcaption {
     font-size: 10px;
 }
 
-p {
+p, table {
     margin: 15px 0;
 }
 
@@ -59,7 +59,6 @@ ul {
 }
 
 table {
-    margin-top: 20px;
     border-collapse: collapse;
     text-align: left;
 }
